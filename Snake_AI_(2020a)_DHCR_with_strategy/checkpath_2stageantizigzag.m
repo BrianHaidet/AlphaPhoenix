@@ -1,3 +1,9 @@
+% Snake AI: Dynamic Hamiltonian Cycle Repair (with some strategic stuff)
+% by Brian Haidet for AlphaPhoenix
+% published 4/11/2020
+% CC non-commercial, attribution
+% See readme for details
+
 %there are two methods that this file uses to reconstruct the hamiltonian
 %cycle. first, it checks to see if the turn the snake WANTS to take splits
 %the hamcycle into two closed loops. if so, it looks for a location where

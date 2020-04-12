@@ -1,3 +1,9 @@
+% Snake AI: Dynamic Hamiltonian Cycle Repair (with some strategic stuff)
+% by Brian Haidet for AlphaPhoenix
+% published 4/11/2020
+% CC non-commercial, attribution
+% See readme for details
+
 %clear
 %clc
 rendervideo=false
