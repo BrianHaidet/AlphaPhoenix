@@ -6,7 +6,7 @@
 % Don't copy this straight into homework or something ridiculous - I'm
 % posting this so people can hopefully learn from it! It's not the cleanest
 % code, but I added a few more comments in the areas that need
-% explaining. and deleted all the extra bits of commented-out code that had
+% explaining. And deleted all the extra bits of commented-out code that had
 % built up. Feel free to ask more questions on youtube here!
 % https://youtu.be/6DlRsPo-dxY
 
